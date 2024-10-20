@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Rolex Submariner master", "price": 9999 },
+    { "id": 2, "name": "Omega Speedmaster", "price": 5200 },
+    { "id": 3, "name": "Tag Heuer Carrera", "price": 3600 },
+    { "id": 4, "name": "Breitling Navitimer", "price": 8900 },
+    { "id": 5, "name": "Seiko Prospex", "price": 1200 }
+  ]
